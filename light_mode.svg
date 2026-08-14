@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,DejaVu Sans Mono,monospace" width="1112px" height="690px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #a34d14;}
+.value {fill: #036a96;}
+.addColor {fill: #14710a;}
+.delColor {fill: #cb3a2a;}
+.cc {fill: #a5a5b5;}
+.hdr {fill: #a34d14;}
+.ascii {fill: #644ac9;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1112px" height="690px" fill="#f5f5f0" rx="15"/>
+<text x="15" y="30" class="ascii">
+<tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="50">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="70">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="90">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="110">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="130">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="150">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="170">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="190">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="210">⠀⣠⣤⣤⡀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="230">⢰⣿⢋⠈⣿⡀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="250">⠀⠙⠛⠀⣿⡄⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="270">⠀⠀⠀⠀⠈⠛⠃⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="290">⠀⠀⠀⠀⠀⢾⣿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="310">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⠟⢿⣿⡿⢿⣿⣿⣿⣿⣿⡟⠛⠛⠛⠛⢻⣿⠉⢹⣿⣿⣿⡃⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="330">⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⢸⣿⡇⢸⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⢸⣿⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="350">⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠈⠟⣡⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠸⠏⣠⣾⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="370">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣶⣤⣤⣤⣴⣾⣿⣿⣿⣿⣶⣶⣿⣿⣿⣶⣤⣤⣤⣾⣿⣿⣿⣿⣿⣇⣀⣀⣀⣀⣀⣀⠀</tspan>
+<tspan x="15" y="390">⠀⠀⠀⠀⠸⠟⠛⠛⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠉⠁⠀⠀⠀⠀⠁⠀</tspan>
+<tspan x="15" y="410">⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⡶⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠓⠲⠶⠶⠶⠤⣤⣀⠀</tspan>
+<tspan x="15" y="430">⠀⠀⠀⠀⠀⠛⠋⠉⠁⠀⠀⣠⣼⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣯⣄⣀⠀⠀⠀⠀⠀⠀⠈⠁</tspan>
+<tspan x="15" y="450">⠀⠀⠀⠀⠀⠀⠀⣀⣤⡶⠛⠉⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠉⠀⠀⠀⠉⠙⠳⠶⣤⡀⠀⠀⠀</tspan>
+<tspan x="15" y="470">⠀⠀⠀⠀⠀⠀⠘⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀</tspan>
+<tspan x="15" y="490">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="510">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="530">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="550">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="570">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="590">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="610">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="630">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="650">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="670">⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+</text>
+<text x="580" y="190" fill="#1f1f1f">
+<tspan x="580" y="190"><tspan class="key">rividu@pesara</tspan> —————————————————————————————————————-—-</tspan>
+<tspan x="580" y="210"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Windows, Linux</tspan></tspan>
+<tspan x="580" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, Rust, TypeScript, Dart, Ruby</tspan></tspan>
+<tspan x="580" y="250"><tspan class="cc">. </tspan><tspan class="key">Databases</tspan>.<tspan class="key">SQL</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">PostgreSQL, MySQL, SQLite</tspan></tspan>
+<tspan x="580" y="270"><tspan class="cc">. </tspan><tspan class="key">Databases</tspan>.<tspan class="key">NoSQL</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">MongoDB, Firebase</tspan></tspan>
+<tspan x="580" y="290"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">AI/ML, Web, Mobile</tspan></tspan>
+<tspan x="580" y="310"><tspan class="cc">. </tspan></tspan>
+<tspan x="580" y="330"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Media</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Anime, Manga, Manhwa, Light Novels</tspan></tspan>
+<tspan x="580" y="350"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Gaming</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Video Games, Board Games</tspan></tspan>
+<tspan x="580" y="370"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Other</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Gym, DIY Cards</tspan></tspan>
+<tspan x="580" y="390"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Code</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Exploring Open Source</tspan></tspan>
+<tspan x="580" y="410"><tspan class="cc">. </tspan></tspan>
+<tspan x="580" y="430"><tspan class="hdr">- Contact </tspan>—————————————————————————————————————————-—-</tspan>
+<tspan x="580" y="450"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">pesarauniversity@gmail.com</tspan></tspan>
+<tspan x="580" y="470"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">rivindu-pesara-myprofile</tspan></tspan>
+<tspan x="580" y="490"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">RividuPesara</tspan></tspan>
+<tspan x="580" y="510"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">rividupesara-portfolio.vercel.app</tspan></tspan>
+</text>
+</svg>
